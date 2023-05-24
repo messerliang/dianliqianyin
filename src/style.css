@@ -57,7 +57,6 @@ h3{
     width: 210px;
     border-radius: 15px;
     position: absolute;
-    /* top: calc(30px + 1em + 40px + 15px); */
     top: calc(124.5px + 1em);
     padding: 0px 1em;
     
@@ -67,6 +66,7 @@ h3{
 @media screen and (min-width:1280px) {
     .leftside{
         padding: 0 calc(50% - 640px + 2em);
+        
     }
 }
 .leftside .catalog{
@@ -140,7 +140,7 @@ h3{
 }
 @media screen and (min-width:1280px) {
     .container{
-        padding: 2em calc(50% - 640px + 2em);
+        padding: 1em calc(50% - 640px + 2em);
     }
 }
 
