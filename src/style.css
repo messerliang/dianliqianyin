@@ -58,8 +58,8 @@ h3{
     border-radius: 15px;
     position: absolute;
     /* top: calc(30px + 1em + 40px + 15px); */
-    top: calc(124.5px + 2em);
-    padding: 0px 2em;
+    top: calc(124.5px + 1em);
+    padding: 0px 1em;
     
     /* background-color: #fff; */
     /* border: 1px solid rgba(238, 238, 238, 0.76); */
@@ -115,7 +115,7 @@ h3{
     padding-left: 2em;
     padding-right: 2em;
     position: relative;
-    margin-left: 230px;
+    margin-left: 220px;
     margin-bottom: 20px;
     background-color: #fff;
     border: 1px solid rgba(238, 238, 238, 0.76);
@@ -134,7 +134,7 @@ h3{
     position: relative;
     top: 0;
     display: block;
-    padding: 2em;
+    padding: 1em;
     left: 50%;
     transform: translateX(-50%);
 }
